@@ -3,6 +3,8 @@
 This repository contains an Excel-based catchment decision support tool developed during my master’s studies in Europe.  
 The tool allows users to explore how **land-use change** and **climate change scenarios** affect hydrologic response using an Excel model with VBA automation.
 
+This project was developed as part of a collaborative master’s-level coursework project in Europe.
+
 ## Contents
 - `Morland-CIS.xlsm` — main Excel/VBA model
 - `MorlandGIS/` — supporting GIS-related files (inputs/outputs)
